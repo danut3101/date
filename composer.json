@@ -1,6 +1,6 @@
 {
-    "name": "danut3101/date",
-    "description": "A date library to help you work with dates in different languages",
+    "name": "jenssegers/date",
+    "description": "A date library to help you work with dates in different languages - fork of jenssegers/date for Carbon 3.0",
     "keywords": ["laravel", "date", "time", "datetime", "i18n", "translation", "carbon"],
     "homepage": "https://github.com/jenssegers/date",
     "license" : "MIT",
@@ -29,7 +29,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "3.1-dev"
+            "dev-main": "3.1-dev"
         },
         "laravel": {
             "providers": [
